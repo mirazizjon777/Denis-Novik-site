@@ -169,6 +169,9 @@ li {
 }
 
 /* THREE */
+.container-three{
+  background-color: var(--white-bg-color);
+}
 .three {
   width: 100%;
   padding: 90px 0;
