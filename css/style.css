@@ -286,6 +286,7 @@ li {
   color: var(--white-text-color);
   font-size: 50px;
   padding: 50px;
+  border-radius: 10px;
   position: absolute;
 
 }
