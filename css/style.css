@@ -201,6 +201,7 @@ li {
   font-weight: 500;
   font-size: 18px;
   line-height: 21.83px;
+  color: var(--black-text-color);
 }
 .three__box h5 {
   text-align: center;
